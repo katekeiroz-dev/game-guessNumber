@@ -6,6 +6,7 @@ let score = 10;
 
 
 
+
 document.querySelector('.check').addEventListener('click', function(){
     let guess = Number(document.querySelector('.guess').value);
 
