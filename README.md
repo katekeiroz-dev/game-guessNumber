@@ -12,5 +12,7 @@ small game done for fun whilist put into practice javascript and DOM manipulatio
 
 ### Try it !! ⤵️
  
+https://game-guessingnumber.netlify.app
+
 
 
